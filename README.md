@@ -1,4 +1,4 @@
 # Black-Panther-Game
-Wakanda Forever! :')
+Wakanda Forever! :')/
 ![](Images/Capture.JPG)
 
