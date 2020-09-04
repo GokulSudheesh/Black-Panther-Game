@@ -1,3 +1,4 @@
 # Black-Panther-Game
-![](Images/Capture.JPG)/
 Wakanda Forever! :')
+![](Images/Capture.JPG)
+
